@@ -91,6 +91,34 @@ html {
   /* font-size: 3.25rem; */
 }
 
+.sidebar-about .profile-pic {
+  display: block !important;
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 50% !important; /* This is the circle magic */
+  border: 3px solid #fff !important;
+  object-fit: cover !important;
+  object-position: center 30%;
+}
+
+.sidebar-about .social-icons {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+  /* text-align: center !important; */
+}
+
+.sidebar-about .social-icons a {
+  color: rgba(255, 255, 255, 0.5) !important; /* Semi-transparent white to match Hyde's vibe */
+  font-size: 1rem !important;
+  margin: 0 0 0 0 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out !important;
+}
+
+.sidebar-about .social-icons a:hover {
+  color: #fff !important; /* Bright white on hover */
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
