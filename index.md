@@ -114,7 +114,7 @@ Professionally speaking, I have spent the last {% assign start_year = 2017 %}{% 
 </div>
 
 # <i class="fa-solid fa-newspaper"></i> Publications
-<div class="pub-grid">
+<!-- <div class="pub-grid">
   <div class="pub-item">
     <div class="pub-content">
       <h4 class="pub-title">
@@ -132,7 +132,7 @@ Professionally speaking, I have spent the last {% assign start_year = 2017 %}{% 
       <!-- <a href="#" class="btn-pub"><i class="fa-solid fa-quote-left"></i> Cite</a> -->
     </div>
   </div>
-</div>
+</div> -->
 
 
 # <i class="fa-solid fa-newspaper"></i> Life
