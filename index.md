@@ -93,7 +93,8 @@ I have spent the last {% assign start_year = 2017 %}{% assign start_month = 8 %}
     </div>
   </div>
   <div class="updated-flag">
-    Last updated: <span id="update-date">Loading...</span>
+    Last updated: <span id="update-date">Loading...</span><br/>
+    Source: <a href="https://scholar.google.com/citations?user=_DI_jTsAAAAJ">Google Scholar</a>
   </div>
 </div>
 
