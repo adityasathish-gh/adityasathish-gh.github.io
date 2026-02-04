@@ -1,0 +1,19 @@
+current directory: /home/adityasathis/Gits/adityasathis/website/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/adityasathis/Gits/adityasathis/website/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260204-34387-jsyv6r sitelibdir\=./.gem.20260204-34387-jsyv6r clean
+
+current directory: /home/adityasathis/Gits/adityasathis/website/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260204-34387-jsyv6r sitelibdir\=./.gem.20260204-34387-jsyv6r
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/adityasathis/Gits/adityasathis/website/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260204-34387-jsyv6r sitelibdir\=./.gem.20260204-34387-jsyv6r install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260204-34387-jsyv6r
+
+current directory: /home/adityasathis/Gits/adityasathis/website/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260204-34387-jsyv6r sitelibdir\=./.gem.20260204-34387-jsyv6r clean
