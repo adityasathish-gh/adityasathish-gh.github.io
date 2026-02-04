@@ -14,7 +14,7 @@ author = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 print(f"Found author: {author.get('name')}")
 
 print("Fetching indices...")
-scholarly.fill(author, sections=['basics', 'indices'])
+scholarly.fill(author, sections=['basics', 'indices', 'publications'])
 print("Data retrieved successfully.")
 
 # 2. Extract the specific numbers you want
